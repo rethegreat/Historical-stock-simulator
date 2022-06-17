@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/boazcheung/hst/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/boazcheung/Historical-stock-simulator/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/boazcheung/hst/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/boazcheung/Historical-stock-simulator/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
