@@ -74,6 +74,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "intl",
+      "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0",
       "packageUri": "lib/",
@@ -152,6 +158,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "syncfusion_flutter_charts",
+      "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/syncfusion_flutter_charts-20.1.60+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "syncfusion_flutter_core",
+      "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/syncfusion_flutter_core-20.1.60",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "term_glyph",
       "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0",
       "packageUri": "lib/",
@@ -182,7 +200,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-06-16T21:29:05.815052Z",
+  "generated": "2022-06-17T16:27:16.686044Z",
   "generator": "pub",
   "generatorVersion": "2.17.0"
 }
